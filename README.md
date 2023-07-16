@@ -17,7 +17,7 @@ O cliente solicita os produtos através de um arquivo .txt da seguinte forma:
 | FRANGO   | 10         |
 | presunto | 18         |
 
-## Recibo gerado
+## Geração de Recibo
 O programa deve ler o conteúdo do pedido e gerar um recibo .nfc da seguinte forma:
 
 
@@ -68,4 +68,9 @@ criado com a nova capacidade igual a capacidade anterior + 2n, sendo n a quantid
 que o vetor foi expandido. Os dados são copiados do vetor antigo para o novo e o vetor 
 antigo é liberado da memória. 
 
+## Utilização
+Certifique-se de ter um compilador de C++ instalado em seu sistema.
+Faça o download dos arquivos deste projeto.
+Compile e execute o arquivo do programa em seu ambiente C++.
+Siga as instruções apresentadas no menu para realizar as operações desejadas.
 
